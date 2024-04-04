@@ -1,6 +1,5 @@
 package entities;
 
-
 import java.util.Comparator;
 
 public class MyComparator implements Comparator<Product> {
